@@ -1,0 +1,69 @@
+body {
+	width: 100%;
+	max-width: 1024px;
+	margin: 0 auto;
+	background-color:#2980B9;
+}
+header, 
+main, 
+footer {
+  background-color: #CADFED;
+}
+
+h1 {
+    font-family: Trebuchet MS;
+    color: #2980B9;
+    text-align: center;
+}
+h2 {
+    font-family: Verdana; 
+    color: darkslateblue; 
+    text-align: center;
+    padding-top: 10px; 
+    padding-bottom: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h3 {
+    font-family: Verdana; 
+    color:steelblue; 
+    text-align: center;
+    padding-top: 10px; 
+    padding-bottom: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+p {
+    font-size: 20px; 
+    color: #355E86; 
+    font-family: Garamond;
+    padding: 25px;
+}    
+img {
+    width: 505; 
+    border: 5px solid midnightblue; 
+    border-radius: 8px; 
+    display: block; 
+    margin: auto;
+}
+a href {
+    text-decoration: none; 
+    color:mediumseagreen;
+}
+footer {
+  font-family: Trebuchet MS; 
+  color: seagreen; 
+  text-align: center;
+}  
+figcaption {
+  text-align: center;
+  font-style: italic;
+  padding: 3px;
+}
+nav ul {
+  text-align: center;
+  padding: 0px;
+}
+ul {
+  list-style: none;
+}
